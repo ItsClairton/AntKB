@@ -1,0 +1,5 @@
+name: AntKB
+main: dev.clairton.antkb.Main
+description: Sistema de AntKB
+version: 1.0
+depend: [WorldGuard]
